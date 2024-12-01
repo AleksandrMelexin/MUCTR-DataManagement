@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "674ca7dde2efd9418d2d1f20"
+  },
+  "sale_date": "2005-01-03",
+  "brand": {
+    "$oid": "674ca1e8e2efd9418d2d1f0e"
+  },
+  "price": 12000,
+  "sale_count": 5,
+  "saler": {
+    "$oid": "674ca499e2efd9418d2d1f19"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ca7f9e2efd9418d2d1f22"
+  },
+  "sale_date": "2005-01-15",
+  "brand": {
+    "$oid": "674ca15ed03e418adf893bf8"
+  },
+  "price": 8000,
+  "sale_count": 4,
+  "saler": {
+    "$oid": "674ca536e2efd9418d2d1f1b"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ca90ce2efd9418d2d1f25"
+  },
+  "sale_date": "2005-02-02",
+  "brand": {
+    "$oid": "674ca1e8e2efd9418d2d1f0e"
+  },
+  "price": 25000,
+  "sale_count": 3,
+  "saler": {
+    "$oid": "674ca553e2efd9418d2d1f1d"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ca94ae2efd9418d2d1f27"
+  },
+  "sale_date": "2005-02-14",
+  "brand": {
+    "$oid": "674cabcce2efd9418d2d1f2e"
+  },
+  "price": 11000,
+  "sale_count": 3,
+  "saler": {
+    "$oid": "674ca553e2efd9418d2d1f1d"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ca969e2efd9418d2d1f29"
+  },
+  "sale_date": "2005-04-04",
+  "brand": {
+    "$oid": "674ca1e8e2efd9418d2d1f0e"
+  },
+  "price": 19000,
+  "sale_count": 4,
+  "saler": {
+    "$oid": "674ca536e2efd9418d2d1f1b"
+  }
+},
+{
+  "_id": {
+    "$oid": "674ca993e2efd9418d2d1f2b"
+  },
+  "sale_date": "2005-03-02",
+  "brand": {
+    "$oid": "674ca15ed03e418adf893bf8"
+  },
+  "price": 10000,
+  "sale_count": 5,
+  "saler": {
+    "$oid": "674ca499e2efd9418d2d1f19"
+  }
+}]

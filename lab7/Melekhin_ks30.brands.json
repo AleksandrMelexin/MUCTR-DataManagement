@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "674ca15ed03e418adf893bf8"
+  },
+  "brand_name": "Леново"
+},
+{
+  "_id": {
+    "$oid": "674ca1e8e2efd9418d2d1f0e"
+  },
+  "brand_name": "Cамсунг"
+},
+{
+  "_id": {
+    "$oid": "674cabcce2efd9418d2d1f2e"
+  },
+  "brand_name": "Сони"
+}]

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "674ca499e2efd9418d2d1f19"
+  },
+  "saler_name": "Иванов",
+  "saler_sex": "Мужской",
+  "saler_age": 20
+},
+{
+  "_id": {
+    "$oid": "674ca536e2efd9418d2d1f1b"
+  },
+  "saler_name": "Петрова",
+  "saler_sex": "Женский",
+  "saler_age": 19
+},
+{
+  "_id": {
+    "$oid": "674ca553e2efd9418d2d1f1d"
+  },
+  "saler_name": "Сидорова",
+  "saler_sex": "Женский",
+  "saler_age": 21
+}]
